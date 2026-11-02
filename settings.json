@@ -1,13 +1,13 @@
 {
   "name": "APEX BOT",
   "bot-account": {
-    "username": "APEX BOT",
+    "username": "UNC2",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "APEXSMP-LIFESTEAL.aternos.me",
-    "port": 23723,
+    "ip": "UNCONQUERED-SMP-S2.aternos.me",
+    "port": 19132,
     "version": "1.21.1"
   },
   "position": {
